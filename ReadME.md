@@ -12,6 +12,7 @@
 - **Amazon Athena**: For querying data using SQL.
 - **Amazon QuickSight**: For visualizing and analyzing data.
 - **AWS IAM**: For managing access to AWS services securely.
+- **Dataset**: https://www.kaggle.com/datasets/datasnaek/youtube-new?select=CAvideos.csv
 
 ## Expected Outcomes
 - A scalable ETL pipeline that can handle data from multiple sources.
